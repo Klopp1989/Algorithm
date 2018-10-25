@@ -25,3 +25,5 @@ hs_err_pid*
 # 工程文件
 .idea
 *.iml
+
+*.DS_Store
