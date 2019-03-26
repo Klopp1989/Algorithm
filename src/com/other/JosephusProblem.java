@@ -34,6 +34,7 @@ public class JosephusProblem {
 	
 
 	public static void main(String[] args) {
+
 		
 		// 构造环状链表
 		int n = 41;
