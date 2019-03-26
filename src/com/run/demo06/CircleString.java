@@ -1,4 +1,4 @@
-package com.run.com.run.demo06;
+package com.run.demo06;
 
 public class CircleString {
 

@@ -1,4 +1,4 @@
-package com.run.com.run.demo06;
+package com.run.demo06;
 
 public class Node {
 
@@ -19,5 +19,9 @@ public class Node {
 
     public void setNext(Node next) {
         this.next = next;
+    }
+
+    public Node(int data) {
+        this.data = data;
     }
 }
